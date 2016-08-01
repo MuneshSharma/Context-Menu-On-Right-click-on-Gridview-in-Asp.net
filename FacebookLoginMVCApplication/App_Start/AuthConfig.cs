@@ -23,12 +23,12 @@ namespace FacebookLoginMVCApplication
             //    consumerSecret: "");
 
             OAuthWebSecurity.RegisterFacebookClient(
-                appId: "907552512704446",
-                appSecret: "62f9083a9f410a56f8fd25ba444641a6");
+                appId: "",
+                appSecret: "");
 
             OAuthWebSecurity.RegisterTwitterClient(
-               consumerKey: "dehAbmGainTnbfVoyrp8jP2OD",
-               consumerSecret: "	EqDT51RO51Lk60RmsNk7VP6gjsmWEQRVvPvvWEODhHpzl8qekr");
+               consumerKey: "",
+               consumerSecret: "");
 
             //OAuthWebSecurity.RegisterGoogleClient();
         }
